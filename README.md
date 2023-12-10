@@ -1,8 +1,6 @@
-## NLP MACHINE LEARNING PROJECT
+## HATE SPEECH IDENTIFICATION
 
-# HATE SPEECH IDENTIFICATION
-
-
+![image3.png](https://github.com/ezraflavine/Phase3_project/blob/main/image3.png)
 
 
 
@@ -81,6 +79,22 @@ Technology Companies and Developers:
 NLP Algorithm Developers
 AI and Machine Learning Experts
 Those involved in developing NLP algorithms play a pivotal role. Improving hate speech detection algorithms contributes to the responsible development of AI technologies and aligns with ethical considerations.
+
+# EDA Analysis
+
+![image3.png](https://github.com/ezraflavine/Phase3_project/blob/main/image3.png)
+
+
+![image3.png](https://github.com/ezraflavine/Phase3_project/blob/main/image3.png)
+
+# Modelling
+
+![image3.png](https://github.com/ezraflavine/Phase3_project/blob/main/image3.png)
+
+
+# Recommendation
+
+# conclusion
 
 
 
