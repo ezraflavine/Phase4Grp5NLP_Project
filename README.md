@@ -1,7 +1,5 @@
 ## HATE SPEECH IDENTIFICATION
-
 ![image6.png](https://github.com/ezraflavine/Phase4Grp5NLP_Project/blob/main/image6.jpg)
-
 
 
 # Hate Speech Identification Dataset
@@ -106,6 +104,9 @@ Tuned_GBM will accurately result to desirable predictions when used to sort out 
 # Conclusion
 
 Therefore, the recommended model for adoption is Tuned Gradient Boosting Machine (Tuned_GBM).
+
+# Deploment 
+An app is available created using streamlit and here is were to access it ![link](https://master-uxt2sdbfisrhy3cycvhbze.streamlit.app/)
 
 
 
