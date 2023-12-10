@@ -88,9 +88,11 @@ Those involved in developing NLP algorithms play a pivotal role. Improving hate 
 ![image2.png](https://github.com/ezraflavine/Phase4Grp5NLP_Project/blob/main/image2.png)
 
 # Modelling
+The best performing model is the Tuned Gradient Boosting Machine, that has shown good results in terms of accurately predicting words into hate speech and non hate speech category
 
-![image3.png](https://github.com/ezraflavine/Phase4Grp5NLP_Project/blob/main/image3.png)
+![image4.png](https://github.com/ezraflavine/Phase4Grp5NLP_Project/blob/main/image4.png)
 
+![image5.png](https://github.com/ezraflavine/Phase4Grp5NLP_Project/blob/main/image5.png)
 
 # Recommendation
 
