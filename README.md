@@ -106,6 +106,6 @@ Tuned_GBM will accurately result to desirable predictions when used to sort out 
 Therefore, the recommended model for adoption is Tuned Gradient Boosting Machine (Tuned_GBM).
 
 # Deploment 
-An app is available created using streamlit and here is were to access it [link here](https://master-uxt2sdbfisrhy3cycvhbze.streamlit.app/)
+An app is available created using streamlit and here is where to access it from [link here](https://master-uxt2sdbfisrhy3cycvhbze.streamlit.app/)
 
 
