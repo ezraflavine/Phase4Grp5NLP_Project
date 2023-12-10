@@ -1,7 +1,6 @@
 ## HATE SPEECH IDENTIFICATION
 
-![image3.png](https://github.com/ezraflavine/Phase3_project/blob/main/image3.png)
-
+![image6.png](https://github.com/ezraflavine/Phase4Grp5NLP_Project/blob/main/image6.jpg)
 
 
 
