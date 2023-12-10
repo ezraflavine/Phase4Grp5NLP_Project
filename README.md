@@ -1,10 +1,5 @@
-## NLP MACHINE LEARNING PROJECT
-
-# HATE SPEECH IDENTIFICATION
-
-
-
-
+## HATE SPEECH IDENTIFICATION
+![image6.png](https://github.com/ezraflavine/Phase4Grp5NLP_Project/blob/main/image6.jpg)
 
 
 # Hate Speech Identification Dataset
@@ -82,5 +77,35 @@ NLP Algorithm Developers
 AI and Machine Learning Experts
 Those involved in developing NLP algorithms play a pivotal role. Improving hate speech detection algorithms contributes to the responsible development of AI technologies and aligns with ethical considerations.
 
+# EDA Analysis
+
+![image1.png](https://github.com/ezraflavine/Phase4Grp5NLP_Project/blob/main/image1.png)
+
+
+![image2.png](https://github.com/ezraflavine/Phase4Grp5NLP_Project/blob/main/image2.png)
+
+# Modelling
+The best performing model is the Tuned Gradient Boosting Machine, that has shown good results in terms of accurately predicting words into hate speech and non hate speech category
+
+![image4.png](https://github.com/ezraflavine/Phase4Grp5NLP_Project/blob/main/image4.png)
+
+![image5.png](https://github.com/ezraflavine/Phase4Grp5NLP_Project/blob/main/image5.png)
+
+# Recommendation
+
+1. Tuned Gradient Boosting Machine (Tuned_GBM) appears to be the most balanced model with improved performance on both training and testing sets compared to the untuned GBM.
+
+2. Logistic Regression (LR) remains a good option, especially if interpretability is important.
+
+3. Decision Tree (DT) seems to overfit and may not generalize well to new data.
+
+Tuned_GBM will accurately result to desirable predictions when used to sort out hate speech and non hate speech words from tweets.
+
+# Conclusion
+
+Therefore, the recommended model for adoption is Tuned Gradient Boosting Machine (Tuned_GBM).
+
+# Deploment 
+An app is available created using streamlit and here is were to access it [link here](https://master-uxt2sdbfisrhy3cycvhbze.streamlit.app/)
 
 
