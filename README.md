@@ -82,19 +82,30 @@ Those involved in developing NLP algorithms play a pivotal role. Improving hate 
 
 # EDA Analysis
 
-![image3.png](https://github.com/ezraflavine/Phase3_project/blob/main/image3.png)
+![image1.png](https://github.com/ezraflavine/Phase4Grp5NLP_Project/blob/main/image1.png)
 
 
-![image3.png](https://github.com/ezraflavine/Phase3_project/blob/main/image3.png)
+![image2.png](https://github.com/ezraflavine/Phase4Grp5NLP_Project/blob/main/image2.png)
 
 # Modelling
 
-![image3.png](https://github.com/ezraflavine/Phase3_project/blob/main/image3.png)
+![image3.png](https://github.com/ezraflavine/Phase4Grp5NLP_Project/blob/main/image3.png)
 
 
 # Recommendation
 
-# conclusion
+1. Tuned Gradient Boosting Machine (Tuned_GBM) appears to be the most balanced model with improved performance on both training and testing sets compared to the untuned GBM.
+
+2. Logistic Regression (LR) remains a good option, especially if interpretability is important.
+
+3. Decision Tree (DT) seems to overfit and may not generalize well to new data.
+
+Tuned_GBM will accurately result to desirable predictions when used to sort out hate speech and non hate speech words from tweets.
+
+# Conclusion
+
+Therefore, the recommended model for adoption is Tuned Gradient Boosting Machine (Tuned_GBM).
+
 
 
 
