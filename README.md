@@ -4,6 +4,8 @@
 
 # Hate Speech Identification Dataset
 
+The link to the dataset used is here [Link here](https://data.world/crowdflower/hate-speech-identification)
+
 # About the Data
 This dataset utilizes Twitter data and was created for research purposes in hate-speech identification. The text is classified into three categories: hate-speech, offensive language, and neither. It is crucial to note that the dataset contains text that may be considered racist, sexist, homophobic, or generally offensive.
 
